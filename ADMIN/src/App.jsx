@@ -7,7 +7,7 @@ import Orders from './Pages/Orders/Orders.jsx'
 import List from './Pages/List/List.jsx'
 import { ToastContainer} from 'react-toastify';
 const App = () => {
-  const url = 'http://localhost:3000';
+  const url = 'https://tomato-food-app-p191.onrender.com';
   return (
     <div>
       <ToastContainer/>
